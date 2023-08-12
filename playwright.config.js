@@ -33,20 +33,34 @@ module.exports = defineConfig({
 
   /* Configure projects for major browsers */
   projects: [
-    {
-      name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
-    },
+    //{
+    //  name: 'chromium',
+    //  use: { ...devices['Desktop Chrome'] },
+    //},
+
+    //{
+    //  name: 'firefox',
+    //  use: { ...devices['Desktop Firefox'] },
+    //},
+
+    //{
+    //  name: 'webkit',
+    //  use: { ...devices['Desktop Safari'] },
+    //},
 
     {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
+      name: 'setup',
+      testMatch: 'setup.spec.js',
+    },
+    {
+      name: 'smoke',
+      dependencies: ['setup'],
+      testMatch: 'storageState.spec.js',
+      // use: {
+      //   storageState: 'state.json'
+      // }
     },
 
-    {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari'] },
-    },
 
     /* Test against mobile viewports. */
     // {
