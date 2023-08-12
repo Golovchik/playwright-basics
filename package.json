@@ -1,0 +1,21 @@
+{
+  "name": "playwright-basics",
+  "version": "1.0.0",
+  "description": "https://playwright.dev/docs/intro",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Golovchik/playwright-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Golovchik/playwright-basics/issues"
+  },
+  "homepage": "https://github.com/Golovchik/playwright-basics#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.0"
+  }
+}
