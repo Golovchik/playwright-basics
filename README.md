@@ -1,6 +1,6 @@
 # playwright-basics
 
-### M2: Install and configuration
+## M2: Install and configuration
 
 ### Documentation
 
@@ -11,6 +11,8 @@ https://playwright.dev/docs/intro
 npm init playwright@latest
 
 npx playwright test
+
+npx playwright test --headed
 
 ### Browser
 
@@ -123,3 +125,39 @@ https://playwright.dev/docs/writing-tests#using-test-hooks
 ### Configuration
 
 https://playwright.dev/docs/test-configuration
+
+## M3: Test Runner
+
+### Configuration
+
+- test.describe.configure()
+
+https://playwright.dev/docs/api/class-test#test-describe-configure
+
+### Isolation, skipping and configuring test scenarios
+
+https://playwright.dev/docs/api/class-test
+
+#### test.only()
+
+https://playwright.dev/docs/api/class-test#test-only
+
+#### test.skip()
+
+https://playwright.dev/docs/api/class-test#test-skip-2
+
+#### test.use()
+
+https://playwright.dev/docs/api/class-test#test-use
+
+https://playwright.dev/docs/api/class-testoptions
+
+- test.use( {headless: true} );
+- test.use( {locale: 'de-DE'} );
+- test.use({ isMobile: true });
+- test.use({ viewport: {width: 100, height: 100} });
+- test.use({ storageState: 'state.json' });
+
+### Working with Storage State
+
+- This approach can be also used if you need to authenticate a user before all the tests
