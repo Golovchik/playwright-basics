@@ -22,4 +22,3 @@ class EPAMPage {
 }
 
 module.exports = EPAMPage;
-
