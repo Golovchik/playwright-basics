@@ -1,8 +1,10 @@
 const base = require("@playwright/test");
-const { EPAMPage } = require("../po/epam.js");
+//const { EPAMPage } = require("../po/epam.js");
+import EPAMPage from "../po/epam";
 
 const test = base.test.extend({
   epamPage: async ({ page }, use) => {
+    await page.goto("https://www.epam.com");
     // create EPAM page and define as custom fixture via use function
     await use(new EPAMPage(page));
   },

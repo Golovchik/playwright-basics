@@ -22,10 +22,20 @@
     },
     {
       "name": "_gcl_au",
-      "value": "1.1.1388492358.1691836065",
+      "value": "1.1.1021515285.1691950468",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1699612064,
+      "expires": 1699726467,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EYGYLWSTX2",
+      "value": "GS1.1.1691950468.1.0.1691950468.60.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1726510468.759248,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -35,7 +45,7 @@
       "value": "",
       "domain": "www.epam.com",
       "path": "/",
-      "expires": 1691839666,
+      "expires": 1691954069,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -45,7 +55,7 @@
       "value": "",
       "domain": "www.epam.com",
       "path": "/",
-      "expires": 1691839666,
+      "expires": 1691954069,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -55,7 +65,7 @@
       "value": "",
       "domain": "www.epam.com",
       "path": "/",
-      "expires": 1691839666,
+      "expires": 1691954069,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -65,87 +75,47 @@
       "value": "",
       "domain": "www.epam.com",
       "path": "/",
-      "expires": 1691839666,
+      "expires": 1691954069,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "JJTdk-R",
-      "value": "e64033f9-dc93-48ca-b6f6-1b2cee80db8b",
+      "value": "0bc689ec-f3b3-4da1-b2f4-2b49c10518c2",
       "domain": "www.epam.com",
       "path": "/",
-      "expires": 1726396066.377384,
+      "expires": 1726510469.110798,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "JJTdkLW6",
-      "value": "67f3a2dc-29a5-4ead-a494-08e819dc542e",
+      "value": "af8fd49e-6916-4eda-8abe-b927bed4f6f2",
       "domain": "www.epam.com",
       "path": "/",
-      "expires": 1691839666,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_ga_EYGYLWSTX2",
-      "value": "GS1.1.1691836066.1.0.1691836066.60.0.0",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1726396066.5958,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_ga",
-      "value": "GA1.2.439787405.1691836067",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1726396066.736347,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_gid",
-      "value": "GA1.2.1714747687.1691836067",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1691922466,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_gat_UA-155540-2",
-      "value": "1",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1691836126,
+      "expires": 1691954069,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "_uetsid",
-      "value": "e147771038fa11ee84a831c141cd5c10",
+      "value": "3e75fbd03a0511ee9d92a9ba6daaa2a9",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1691922466,
+      "expires": 1692036869,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "_uetvid",
-      "value": "e147df2038fa11ee97cb154a611b0707",
+      "value": "3e7647c03a0511eeac4c63f0523f9de2",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1725532066,
+      "expires": 1725646469,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -155,17 +125,97 @@
       "value": "eyI0MjI3OCI6ImQifQ%3D%3D",
       "domain": "www.epam.com",
       "path": "/",
-      "expires": 1691922466,
+      "expires": 1692036869,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "_hjSessionUser_1638007",
-      "value": "eyJpZCI6IjYwYTU4MjhlLTY2ODMtNWEwYi1iMmJmLWEzMzZlMDBiZjJiNCIsImNyZWF0ZWQiOjE2OTE4MzYwNjY4MzYsImV4aXN0aW5nIjpmYWxzZX0=",
+      "name": "_mkto_trk",
+      "value": "id:030-GZP-996&token:_mch-epam.com-1691950469286-12300",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1723372066,
+      "expires": 1726510469.286664,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li_sugr",
+      "value": "ced5ffec-8164-499b-97d2-74cc6b3546fa",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1699726470.055485,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&8bf019ff-2218-47e5-8e4b-560d9efe16a4\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1723486470.055544,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST01:s=T:r=T:a=T:p=T:g=3110:u=1:x=1:i=1691950469:t=1692036869:v=2:sig=AQEo4VJbfqTlvv9CzthgtaeQOD7r3kuZ\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1692036870.311723,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.784362195.1691950469",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1726510469.321688,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1610021214.1691950469",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1692036869,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-155540-2",
+      "value": "1",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1691950529,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "07767D49B8E966F82A6D6E25B930671C",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1725646472.179382,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_1638007",
+      "value": "eyJpZCI6IjNiN2FlZTg2LWU4MTMtNTkxNC1iM2E5LWEwMjI1MzdkZTdhNyIsImNyZWF0ZWQiOjE2OTE5NTA0Njk0MDIsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1723486469,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -175,7 +225,7 @@
       "value": "1",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1691837866,
+      "expires": 1691952269,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -185,17 +235,17 @@
       "value": "0",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1691836186,
+      "expires": 1691950589,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "_hjSession_1638007",
-      "value": "eyJpZCI6IjQzMWEwNTcwLTVmODEtNDA1YS04YjZjLTU5YjEyYTc0YjU5ZSIsImNyZWF0ZWQiOjE2OTE4MzYwNjY4NTcsImluU2FtcGxlIjpmYWxzZX0=",
+      "value": "eyJpZCI6ImE2ZDU5ZWU5LWVlMzAtNDZhMC1iNDEyLTVlOTE2NGY2MmQzMSIsImNyZWF0ZWQiOjE2OTE5NTA0Njk0MjQsImluU2FtcGxlIjpmYWxzZX0=",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1691837866,
+      "expires": 1691952269,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -205,130 +255,160 @@
       "value": "1",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1691837866,
+      "expires": 1691952269,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
-    },
-    {
-      "name": "li_sugr",
-      "value": "a0500354-e45f-4128-8b4d-bdef7dddcc7a",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1699612067.476276,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "bcookie",
-      "value": "\"v=2&167e140e-8ec1-45e7-8873-69af1bff31ec\"",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1723372067.476344,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "lidc",
-      "value": "\"b=VGST01:s=V:r=V:a=V:p=V:g=2974:u=1:x=1:i=1691836066:t=1691922466:v=2:sig=AQGJHW_IlEU0caVXVuzX9sO0pMVhFE7e\"",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1691922466.863509,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_mkto_trk",
-      "value": "id:030-GZP-996&token:_mch-epam.com-1691836066882-39285",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1726396066.882807,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
     },
     {
       "name": "_fbp",
-      "value": "fb.1.1691836066970.1020884996",
+      "value": "fb.1.1691950469489.1816563670",
       "domain": ".epam.com",
       "path": "/",
-      "expires": 1699612068,
+      "expires": 1699726469,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "UserMatchHistory",
-      "value": "AQKrTqjDN96cbgAAAYnpSayxbE05USBP54MyntsuAFYw5tz9SpNIbfEyNVSignhfh81NDoct2Sle5g",
+      "value": "AQJiG96tzzFcNwAAAYnwG1FomK5PEUAtW5uiiDlceXO8FYrld-96kLnqFPPTvwKLCWw6bI5vl3brdA",
       "domain": ".linkedin.com",
       "path": "/",
-      "expires": 1694428067.08205,
+      "expires": 1694542469.574131,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "AnalyticsSyncHistory",
-      "value": "AQJ-8UVJbcsAogAAAYnpSayxlxt60gC-QWpVG2wqk6NHLn3Q0BuXKVfRTgiVDhLkvv0JhRGJiZS4CFQbLWKyAw",
+      "value": "AQL_U80itdxu5gAAAYnwG1For8BkOgWOUzLQ9WiYOj7UZ92LQUh2vJgSf6F-dCjxCHVG_3ES4U9sZqYjHE3Vvg",
       "domain": ".linkedin.com",
       "path": "/",
-      "expires": 1694428067.082085,
+      "expires": 1694542469.574159,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "bscookie",
-      "value": "\"v=1&2023081210274758ec3e90-cf5f-4118-8f07-24657828578bAQHSEjKDqfzlMpwsDsJ2Rt581SQCVpJn\"",
+      "value": "\"v=1&20230813181429b1143396-7067-4169-85a0-0c465e706f0eAQFdjIpxTLjicH-D2W8I8ybDw7sds4_g\"",
       "domain": ".www.linkedin.com",
       "path": "/",
-      "expires": 1723372068.290394,
+      "expires": 1723486470.81972,
       "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "OptanonAlertBoxClosed",
-      "value": "2023-08-12T10:27:48.567Z",
-      "domain": ".www.epam.com",
-      "path": "/",
-      "expires": 1723372068,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "OptanonConsent",
-      "value": "isGpcEnabled=0&datestamp=Sat+Aug+12+2023+13%3A27%3A48+GMT%2B0300+(Moscow+Standard+Time)&version=6.36.0&isIABGlobal=false&hosts=&consentId=50587122-367b-492c-b67a-c8a67883616e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&iType=1",
-      "domain": ".www.epam.com",
-      "path": "/",
-      "expires": 1723372068,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "MUID",
-      "value": "3176FEA6CF3062F30F1AEDCDCEE96351",
-      "domain": ".bing.com",
-      "path": "/",
-      "expires": 1725532068.760292,
-      "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "CLID",
-      "value": "3ff18f46e21344f39f738169fc9ab713.20230812.20240811",
+      "value": "4aacd02fe576445d9b83008c02a8d713.20230813.20240812",
       "domain": "www.clarity.ms",
       "path": "/",
-      "expires": 1723372068.078469,
+      "expires": 1723486469.889295,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "1fs90zb|2|fe4|0|1320",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1723486470,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2023-08-13T18:14:31.156Z",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1723486471,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1692555272.17947,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "07767D49B8E966F82A6D6E25B930671C",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1725646472.179519,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Aug+13+2023+21%3A14%3A31+GMT%2B0300+(Moscow+Standard+Time)&version=6.36.0&isIABGlobal=false&hosts=&consentId=f6d90f58-20dc-4a19-b708-3feb112cb239&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&iType=1",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1723486471,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "07767D49B8E966F82A6D6E25B930671C",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1725646472.336933,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1692555272.336979,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1691951072.337007,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "value": "14r7bux|1691950471460|1|1|p.clarity.ms/collect",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1692036871,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
     }
   ],
   "origins": [
@@ -337,23 +417,23 @@
       "localStorage": [
         {
           "name": "_uetsid_exp",
-          "value": "Sun, 13 Aug 2023 10:27:46 GMT"
+          "value": "Mon, 14 Aug 2023 18:14:29 GMT"
         },
         {
           "name": "ContextHubPersistence",
-          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":1280.0000190734863,\"height\":720.0000107288361},\"devicePixelRatio\":1.0000000149011612,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":1280.0000190734863,\"height\":720.0000107288361},\"percentageUsage\":1},\"browser\":{\"version\":\"116.0.0.0\",\"family\":\"Chrome\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36\"},\"device\":{\"category\":\"Desktop\",\"type\":\"windows\"},\"isMobile\":true,\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"year\":2023,\"month\":8,\"day\":12,\"hour\":13,\"minutes\":27},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"europe-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/europe-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/europe-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1691836063704,\"raw-response\":{}},\"location\":{\"continent\":\"Europe\",\"continentCode\":\"EU\",\"country\":\"United Kingdom\",\"countryCode\":\"GB\",\"region\":\"England\",\"regionCode\":\"ENG\",\"city\":\"Paddington\",\"postalCode\":\"W2\",\"latitude\":\"51.50900\",\"longitude\":\"-0.18820\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"GB\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
+          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":1280,\"height\":720},\"devicePixelRatio\":1,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":1280,\"height\":720},\"percentageUsage\":1},\"browser\":{\"version\":\"116.0.5845.82\",\"family\":\"Chrome\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.82 Safari/537.36\"},\"device\":{\"category\":\"Desktop\",\"type\":\"windows\"},\"isMobile\":true,\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"year\":2023,\"month\":8,\"day\":13,\"hour\":21,\"minutes\":14},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"europe-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/europe-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/europe-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1691950466835,\"raw-response\":{}},\"location\":{\"continent\":\"Europe\",\"continentCode\":\"EU\",\"country\":\"United Kingdom\",\"countryCode\":\"GB\",\"region\":\"\",\"regionCode\":\"\",\"city\":\"\",\"postalCode\":\"\",\"latitude\":\"51.49640\",\"longitude\":\"-0.12240\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"GB\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
         },
         {
           "name": "_uetvid",
-          "value": "e147df2038fa11ee97cb154a611b0707"
+          "value": "3e7647c03a0511eeac4c63f0523f9de2"
         },
         {
           "name": "_uetvid_exp",
-          "value": "Thu, 05 Sep 2024 10:27:46 GMT"
+          "value": "Fri, 06 Sep 2024 18:14:29 GMT"
         },
         {
           "name": "_uetsid",
-          "value": "e147771038fa11ee84a831c141cd5c10"
+          "value": "3e75fbd03a0511ee9d92a9ba6daaa2a9"
         }
       ]
     }
