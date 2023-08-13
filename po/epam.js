@@ -1,4 +1,4 @@
-class EPAMPage {
+export default class EPAMPage {
   // all elements of the page described in constructor
   constructor(page) {
     // search icon to initiate search
@@ -20,5 +20,3 @@ class EPAMPage {
     await this.findButton.click();
   }
 }
-
-module.exports = EPAMPage;

@@ -306,3 +306,9 @@ https://playwright.dev/docs/test-reporters#html-reporter
 
 - npx playwright test
 - npx playwright show-report
+
+## M7: API Testing
+
+### Documentation
+
+https://playwright.dev/docs/api-testing
