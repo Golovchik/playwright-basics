@@ -170,7 +170,7 @@ https://playwright.dev/docs/api/class-testoptions
 
 - This approach can be also used if you need to authenticate a user before all the tests
 
-## M4: Debuggin
+## M4: Debugging
 
 ### Documentation
 
@@ -269,3 +269,9 @@ https://playwright.dev/docs/api/class-browsertype#browser-type-launch-option-slo
 
 - // Chromium, Firefox, or WebKit
 - await chromium.launch({ headless: false, slowMo: 100 });
+
+## M5: Fixtures
+
+### Documentation
+
+https://playwright.dev/docs/test-fixtures
