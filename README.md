@@ -275,3 +275,9 @@ https://playwright.dev/docs/api/class-browsertype#browser-type-launch-option-slo
 ### Documentation
 
 https://playwright.dev/docs/test-fixtures
+
+## M6: Page Object Model
+
+### Documentation
+
+https://playwright.dev/docs/pom#implementation
